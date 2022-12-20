@@ -10,7 +10,6 @@ import pdf2image
 import cv2
 import os
 from PIL import Image
-from fpdf import FPDF
 
 crop_up = 200
 crop_down = 200
